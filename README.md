@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on becomming a developer
+- 🌱 I’m currently learning HTML/CSS/JavaScript
+ - 👯 I’m looking to collaborate on any basic issues really I can use the experience.
+
 <!--
 **MatthijsvanderPlas/matthijsvanderplas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
