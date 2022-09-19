@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matthijs and I am 37 years old. I am currently working as a project engineer at a doors and windows manufacturing company. My passion has always been coding/programming/developing and I have recently made the deciscion to pursue a carreer in this field. I am very excited to have started a course a WINC Academy and hope to be posting more and more wonderful creations to my GitHub account soon.
+My name is Matthijs and I am 38 years old. I am currently working as a project engineer at a doors and windows manufacturing company. My passion has always been coding/programming/developing and I have recently made the deciscion to pursue a carreer in this field. I am very excited to have started a course a WINC Academy and hope to be posting more and more wonderful creations to my GitHub account soon.
 
 - 🔭 I’m currently working on becomming a developer
 - 🌱 I’m currently learning HTML/CSS/JavaScript
