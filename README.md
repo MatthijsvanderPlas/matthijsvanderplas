@@ -2,9 +2,10 @@
 
 My name is Matthijs and I am 38 years old. I am a .NET/C# Developer working on SaaS software in de Azure cloud. 
 - 🔭 I am working on Automate365 Solution for Onboarding, Offboarding and Crossboarding of employee's
+- :rocket: I am also working for [FNV](https://fnv.nl) as an Azure Developer helping with Integration/Migration into the cloud
 - 🌱 I’m currently learning C#, .NET, Blazor and Azure Functions
 - 🌱 Soon to add Design Patterns, Clean Architecture
-- 👯 I’m looking to collaborate on any basic issues really I can use the experience.
+- 👯 I’m looking to collaborate on any issues really I enjoy helping and welcome the experience.
 
 <!--
 **MatthijsvanderPlas/matthijsvanderplas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
