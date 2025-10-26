@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Matthijs and I am 38 years old. I am a .NET/C# Developer working on SaaS software in de Azure cloud. 
+My name is Matthijs and I am 41 years old. I am a .NET/C# Developer working on SaaS software in de Azure cloud. 
 - 🔭 I am working on Automate365 Solution for Onboarding, Offboarding and Crossboarding of employee's
-- :rocket: I am also working for [FNV](https://fnv.nl) as an Azure Developer helping with Integration/Migration into the cloud
-- 🌱 I’m currently learning C#, .NET, Blazor and Azure Functions
-- 🌱 Soon to add Design Patterns, Clean Architecture
+- :rocket: I also worked for [FNV](https://fnv.nl) as an Azure Developer helping with Integration/Migration into the cloud
+- 🌱 I’m currently imporoving my skills in C#, Blazor, Azure, Bicep, Aspire and PostgreSQL
+- 🌱 Understand Design Patterns, Clean Architecture
 - 👯 I’m looking to collaborate on any issues really I enjoy helping and welcome the experience.
 
 <!--
